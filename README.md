@@ -108,6 +108,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-f608af) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedream-5-0-pro-prompts-id](https://github.com/ayekoa913g/seedream-5-0-pro-prompts-id)
+- **Same model, other languages** — 9 more language builds: 中文 [seedream-5-0-pro-api-cn](https://github.com/a2hnks5fo-t/seedream-5-0-pro-api-cn) · Deutsch `seedream-5-0-pro-api-de` · Español [seedream-5-0-pro-api-es](https://github.com/pblexl325ktue/seedream-5-0-pro-api-es) · Français [seedream-5-0-pro-api-fr](https://github.com/jef7is8ris/seedream-5-0-pro-api-fr) · Relay/gateway `seedream-5-0-pro-api-gateway` · 日本語 [seedream-5-0-pro-api-ja](https://github.com/d2td7nw6r/seedream-5-0-pro-api-ja) · 한국어 [seedream-5-0-pro-api-ko](https://github.com/d2td7nw6r/seedream-5-0-pro-api-ko) · Português [seedream-5-0-pro-api-pt](https://github.com/znscxwmvl8m7m/seedream-5-0-pro-api-pt) · Русский [seedream-5-0-pro-api-ru](https://github.com/rqox1kopnhnd7c/seedream-5-0-pro-api-ru)
+- **More models in this language** — [midjourney-api-id](https://github.com/cvrwq0/midjourney-api-id) · [gemini-2-5-flash-image-preview-api-id](https://github.com/gmrg0s/gemini-2-5-flash-image-preview-api-id) · [nano-banana-api-id](https://github.com/vsa185x9ecrd/nano-banana-api-id) · [gemini-3-1-flash-image-preview-api-id](https://github.com/p61qrgpg/gemini-3-1-flash-image-preview-api-id) · [nano-banana-2-api-id](https://github.com/n1rf4ezzz/nano-banana-2-api-id) · [gemini-3-pro-image-preview-api-id](https://github.com/s78ve5v4x9ji2/gemini-3-pro-image-preview-api-id)
+- **Topic hubs** — every build of this model, all languages: [seedream-5-0-pro](https://github.com/topics/seedream-5-0-pro) · [seedream-5-0-pro-api](https://github.com/topics/seedream-5-0-pro-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
